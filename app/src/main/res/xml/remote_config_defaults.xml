@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+  <entry>
+    <key>view_repos_enabled</key>
+    <value>true</value>
+    <key>theme</key>
+    <value>blue</value>
+  </entry>
+  <entry>
+    <key>theme</key>
+    <value>blue</value>
+  </entry>
+</defaultsMap>

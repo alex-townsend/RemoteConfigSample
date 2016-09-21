@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <color name="themeYellowPrimary">#FFC107</color>
+  <color name="themeYellowPrimaryDark">#FFA000</color>
+  <color name="themeYellowAccent">#E040FB</color>
+
+  <color name="themePurplePrimary">#9B26AF</color>
+  <color name="themePurplePrimaryDark">#7A1EA1</color>
+  <color name="themePurpleAccent">#68EFAD</color>
+
+
+</resources>
